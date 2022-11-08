@@ -1,0 +1,11 @@
+English/Engelsk:
+Put the Ufo pic in the folder with nothing in it.
+Choose the Ufo preset you like.
+Put the pic in the Space Rush folder.
+If you would like other spaceships, it needs to be 64x64.
+
+Dansk/Danish:
+Put Ufo billedet i den tomme mappe.
+Vælg en af de andre preset billeder.
+Put billedet i Space Rush mappen.
+Hvis u vil have et andet billede, skal det være 64x64.
